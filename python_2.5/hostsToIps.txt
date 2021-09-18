@@ -1,0 +1,12 @@
+LOND_host 84.101.0.1
+PARI_host 84.103.0.1
+NEWY_host 84.105.0.1
+BOST_host 84.106.0.1
+ATLA_host 84.107.0.1
+MIAM_host 84.108.0.1
+stud1 84.200.0.1
+stud2 84.200.0.2
+stud3 84.200.0.3
+staff1 84.200.1.1
+staff2 84.200.1.2
+staff3 84.200.1.3
